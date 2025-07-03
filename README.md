@@ -1,26 +1,46 @@
-# osTicket Lab Setup Guide
+# osTicket Post Installation Demonstration and Configuration
 
-This guide walks you through configuring a local **osTicket** help desk system for demonstration, learning, or internal use. It covers setup for roles, departments, teams, agents, users, SLAs, and help topics.
+
+This guide is for navigation and demonstration on how to use osTicketing system whether it's on the admin and consumer side of things that you need to be aware of doing. Which basically covers the navigating and configuring in roles, departments, teams, agents, users, SLA's, and help topics. This will allow you to understand on how to use osTicket more efficiently.
+
 
 ---
 
 ## Access URLs
 
-- **Admin/Analyst Login Page**: [http://localhost/osTicket/scp/login.php](http://localhost/osTicket/scp/login.php)  
-- **End User Portal**: [http://localhost/osTicket](http://localhost/osTicket)
+- **Admin/Analyst Login Page**:
+
+  [http://localhost/osTicket/scp/login.php](http://localhost/osTicket/scp/login.php)
+
+  
+- **End User Portal**:
+
+
+- [http://localhost/osTicket](http://localhost/osTicket)
+
 
 ---
+
 
 ## Agent Panel vs Admin Panel
 
-- **Agent Panel**: Used by agents to manage tickets, view users, and respond to requests.
-- **Admin Panel**: Used to configure system settings, manage permissions, departments, SLAs, and more.
+- **Agent Panel**:
+
+
+- For managing ticket request, view consumer complaints, and respond to certain type of request.
+
+  
+- **Admin Panel**:
+
+
+- Used to modify system settings, controlling certain permission levels, managing departments, SLA's and a lot more configurable settings.
+
 
 ---
 
-## Configure Roles
+## Configuring Certain Roles
 
-Roles are used to group permission levels for agents.
+Roles are basically used for assigning certain actions that an agent needs to deal with consumer complaints.
 
 - **Location**: `Admin Panel -> Agents -> Roles`
 - **Example Role**: `Supreme Admin`
