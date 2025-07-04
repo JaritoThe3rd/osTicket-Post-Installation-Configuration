@@ -48,7 +48,7 @@ Make a `Supreme Admin` role and make sure that role has permission, task, and kn
 - **Example Role**: `Supreme Admin`
 
 
-https://github.com/user-attachments/assets/398e1b34-d40f-4bee-848f-12adb15935a1
+https://github.com/user-attachments/assets/8304bc36-8407-4b0a-b294-519b05947126
 
 
 ---
