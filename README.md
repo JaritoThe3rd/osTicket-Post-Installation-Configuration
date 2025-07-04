@@ -84,12 +84,16 @@ https://github.com/user-attachments/assets/868e9ec5-b609-468c-9b9d-922a9fcbc933
 
 ## User Registration Settings
 
-Control whether unregistered users can create tickets.
+Deciding whether the corporate wants everyone to file a complaint to osTicket or certain individuals are only allowed particularly senior staff.
 
 - **Location**: `Admin Panel -> Settings -> User Settings`
 - **Setting**:
   - Enable: **Require registration and login to create tickets**
   - Disable: **Unregistered users can create tickets**
+
+
+https://github.com/user-attachments/assets/edbdb840-6b58-4c91-a546-abff7f619fe8
+
 
 ---
 
