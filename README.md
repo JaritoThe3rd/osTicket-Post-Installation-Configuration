@@ -42,8 +42,14 @@ This guide is for navigation and demonstration on how to use osTicketing system 
 
 Roles are basically used for assigning certain actions that an agent needs to deal with consumer complaints.
 
+
+Make a `Supreme Admin` role and make sure that role has permission, task, and knowledgebase checked.
 - **Location**: `Admin Panel -> Agents -> Roles`
 - **Example Role**: `Supreme Admin`
+
+
+https://github.com/user-attachments/assets/398e1b34-d40f-4bee-848f-12adb15935a1
+
 
 ---
 
