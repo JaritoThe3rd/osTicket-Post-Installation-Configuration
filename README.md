@@ -65,7 +65,7 @@ You knowing how to configure departments will allow the company to focus on cert
 - **Location**: `Admin Panel -> Agents -> Departments`
 
 
-https://github.com/user-attachments/assets/1b4b6bd9-1396-4070-bce6-b05dcedd8e54
+https://github.com/user-attachments/assets/f19c3366-2d82-4fcc-ada1-a8acf7a0f8de
 
 
 ---
