@@ -72,10 +72,13 @@ https://github.com/user-attachments/assets/f19c3366-2d82-4fcc-ada1-a8acf7a0f8de
 
 ## Configure Teams
 
-Teams allow you to **group agents** from different departments for collaboration.
-
-- **Location**: `Admin Panel -> Agents -> Teams`
+Teams allow you to **group agents** from different departments for team-based assignments of certain customer or corporate issues.
 - **Example Team**: `Online Banking`
+- **Location**: `Admin Panel -> Agents -> Teams`
+
+
+https://github.com/user-attachments/assets/868e9ec5-b609-468c-9b9d-922a9fcbc933
+
 
 ---
 
