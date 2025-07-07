@@ -122,6 +122,10 @@ Add users who will submit tickets.
   - `Karen`
   - `Ken`
 
+
+https://github.com/user-attachments/assets/7c394c46-8489-4d7f-94ab-55b2a5c1d2bb
+
+
 ---
 
 ## Configure SLA (Service Level Agreements)
@@ -133,6 +137,10 @@ SLAs define ticket response and resolution deadlines.
   - `Sev-A`: Grace Period: **1 hour**, Schedule: **24/7**
   - `Sev-B`: Grace Period: **4 hours**, Schedule: **24/7**
   - `Sev-C`: Grace Period: **8 hours**, Schedule: **Business Hours**
+
+
+https://github.com/user-attachments/assets/90c147c3-9f88-47a6-ba74-6cbaed5fe144
+
 
 ---
 
@@ -146,6 +154,10 @@ Help Topics categorize tickets for proper routing and priority.
   - `Personal Computer Issues`
   - `Equipment Request`
   - `Password Reset`
+
+
+https://github.com/user-attachments/assets/a713d84d-f82f-4433-9401-76200c45d71e
+
 
 ---
 
