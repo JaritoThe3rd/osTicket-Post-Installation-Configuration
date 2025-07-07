@@ -106,6 +106,11 @@ Add agents who will manage and resolve tickets.
   - `Jane` – Department: `SysAdmins`
   - `John` – Department: `Support`
 
+
+
+https://github.com/user-attachments/assets/8d098d74-51dc-4ed3-81b6-d430598e24a5
+
+
 ---
 
 ## Configure Users (Customers)
